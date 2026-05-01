@@ -8,7 +8,7 @@ The original project is hosted at:
 However, the hyperlink in the submitted application was formatted incorrectly as:
 👉 https://tjblech.github.io/CommonGround/
 
-Since GitHub Pages URLs are case- and character-sensitive, this repository ensures that the incorrect link still works by automatically redirecting visitors to the correct site.
+Since GitHub Pages URLs are case and character-sensitive, this repository ensures that the incorrect link still works by automatically redirecting visitors to the correct site.
 
 ## Purpose
 - Fix broken application link
